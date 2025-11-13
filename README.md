@@ -7,7 +7,7 @@
 
 开始使用前，你需要安装 Python 3.7 或更高版本。运行以下命令安装相关二进制文件：
 
-    pip install git+https://github.com/m1guelpf/auto-subtitle.git
+    pip install git+https://github.com/xiaomingx/auto-subtitle.git
 
 你还需要安装 [`ffmpeg`](https://ffmpeg.org/)，大多数包管理器中都可获取该工具：
 
